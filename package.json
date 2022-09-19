@@ -11,5 +11,5 @@
   "dependencies": {
     "@playwright/test": "^1.25.2",
     "prettier": "^2.7.1"
-  }
+}
 }
